@@ -1,36 +1,236 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+  <head>
+    <title>widgetry llc</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <link
+      href="http://fonts.googleapis.com/css?family=Cabin:700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="assets/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="css/style.css">
-  <title>Home - Service Worker Example</title>
-</head>
+  <body>
+    <!--  Navigation Bar -->
 
-<body>
-  <header>
-    <h1>Service Worker Example</h1>
-  </header>
-  <nav>
-    <ul>
-      <li class="current">
-        <a href="index.html">Home</a>
-      </li>
-      <li>
-        <a href="about.html">About</a>
-      </li>
-    </ul>
-  </nav>
-  <main>
-    <h2>Home</h2>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis repellendus eligendi blanditiis quis labore veritatis,
-      autem exercitationem hic itaque fugiat quae aut temporibus quod iste quibusdam, nisi distinctio quisquam? Repudiandae
-      aut deserunt cumque vitae unde rerum quis omnis quidem pariatur.</p>
-  </main>
+    <nav
+      class="navbar navbar-default navbar-fixed-top noBorder"
+      role="navigation"
+    >
+      <div class="container">
+        <div class="navbar-header">
+          <button
+            type="button"
+            class="navbar-toggle"
+            data-toggle="collapse"
+            data-target="#myNavbar"
+          >
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand brandStyle" href="./index.html"
+            >widgetry llc</a
+          >
+        </div>
 
-  <script src="js/main.js"></script>
-</body>
+        <div class="collapse navbar-collapse noPadding" id="myNavbar">
+          <div class="navbar-right menustyle">
+            <ul class="nav navbar-nav">
+              <li>
+                <a href="./index.html"><p>home</p></a>
+              </li>
+              <li>
+                <a href="./index.html#services"><p>services</p></a>
+              </li>
+              <li>
+                <a href="./contact.html"><p>contact us</p></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
 
+    <!-- Main Page -->
+
+    <div class="container-fluid noPadding">
+      <div class="container-fluid headpicture"></div>
+
+      <div class="container text-center">
+        <h1>widgetry llc for cutome digital tools</h1>
+
+        <p class="textStyle">
+          Does your business have everything but the app you wish to sell? We
+          can build it out for you. <br /><br />widgetry llc is a Ruby and
+          JavaScript shop.
+        </p>
+
+        <h1 id="services">Services: we write code.</h1>
+      </div>
+
+      <div class="container textstyle">
+        <div class="row text-center latestProjects">
+          <div class="col-md-4 col-sm-6">
+            <a href="#">
+              <img
+                class="imgsize"
+                src="assets/images/abstract-brainstorm.png"
+                alt="custom mobile app"
+              />
+            </a>
+            <p>
+              Custom Mobile App
+              <a href="#">learn more →</a>
+            </p>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <a href="#">
+              <img
+                class="imgsize"
+                src="assets/images/2.jpg"
+                alt="custom web apps"
+              />
+            </a>
+            <p>
+              Custom Web Apps
+              <a href="#">learn more →</a>
+            </p>
+          </div>
+
+          <div class="col-md-4 col-sm-12">
+            <a href="#">
+              <img
+                class="imgsize"
+                src="assets/images/3.jpg"
+                alt="custom desktop app"
+              />
+            </a>
+            <p>
+              Custom Desktop Apps
+              <a href="#">learn more →</a>
+            </p>
+          </div>
+          <h1>Latest Projects</h1>
+        </div>
+      </div>
+
+      <div class="container textstyle">
+        <div class="row text-center latestProjects">
+          <div class="col-md-4 col-sm-6">
+            <a href="#">
+              <img
+                class="imgsize"
+                src="assets/images/1.jpg"
+                alt="run buddy mobile app"
+              />
+            </a>
+            <p>
+              Run Buddy Mobile Mobile App
+              <a href="#">learn more →</a>
+            </p>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <a href="#">
+              <img
+                class="imgsize"
+                src="assets/images/2.jpg"
+                alt="little league sports fundraising app"
+              />
+            </a>
+            <p>
+              Community Sports Fundraising App
+              <a href="#">learn more →</a>
+            </p>
+          </div>
+
+          <div class="col-md-4 col-sm-12">
+            <a href="#">
+              <img
+                class="imgsize"
+                src="assets/images/3.jpg"
+                alt="real-time stats kickball app"
+              />
+            </a>
+            <p>
+              Real-time Stats Kickball App
+              <a href="#">learn more →</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer -->
+
+      <div class="container footer">
+        <div class="col-xs-12 col-md-8 noPadding">
+          <p id="footerLogoText">widgetry llc © 2019</p>
+        </div>
+        <div class="col-xs-12 col-md-4 noPadding">
+          <div class="socialButtons responsiveAlign">
+            <a href="#" class="noPadding">
+              <img
+                src="assets/images/twitter-square-brands.svg"
+                alt="widgetry llc instagram twitter page"
+              />
+            </a>
+            <a href="#" class="noPadding">
+              <img
+                src="assets/images/linkedin-brands.svg"
+                alt="widgetry llc instagram linkedin page"
+              />
+            </a>
+            <a href="#" class="noPadding">
+              <img
+                src="assets/images/instagram-brands.svg"
+                alt="widgetry llc instagram page"
+              />
+            </a>
+            <a href="#" class="noPadding">
+              <img
+                src="assets/images/hands-helping-solid.svg"
+                alt="click to receive help with your software needs"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/myscript.js"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function() {
+          navigator.serviceWorker.register("./serviceWorker.js").then(
+            function(registration) {
+              // Registration was successful
+              console.log(
+                "ServiceWorker registration successful with scope: ",
+                registration.scope
+              );
+            },
+            function(err) {
+              // Registration failed :(
+              console.log("ServiceWorker registration failed: ", err);
+            }
+          );
+        });
+      }
+    </script>
+  </body>
 </html>
