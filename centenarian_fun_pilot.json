@@ -1,0 +1,27 @@
+{
+      "providerName": "Centenarian.Fun",
+      "language": "en-us",
+      "lastUpdated": "2021-04-13T18:12:32.125Z",
+      "shortFormVideos": [{
+          "id": "20210413_centenarian_fun_convo_wit_fred_harper",
+          "title": "Centenarian.Fun Convo wit Fred Harper",
+          "shortDescription": "aweful Conversations, a regular part of the Centenarian Fun morning show. I hope you enjoy this conversation with Fred Harper, a Developer Evangelist with over 20 years experience in the tech.",
+          "longDescription": "aweful Conversations will become a regular part of the Centenarian Fun morning show. I hope you enjoy this conversation with Fred Harper. Fred's a Developer Evangelist with over 20 years experience in the tech industry.
+We talk about: cats, his is name Java, creating the world you want to exist, succession planning so that you may enjoy the world you create, MIAMI = Money Is Always A Major Issue (Pitbull gave us this Hip-Hop Axiom), 2 Bags, 3 Words for 2021",
+          "thumbnail": "https://cdn.shopify.com/s/files/1/0540/4252/5874/articles/morning_show_convo_wit_fred_cover_905x.png?v=1619644996",
+          "genres": ["comedy"],
+          "tags": ["talk show", "morning show", "centenarian","centenarian fun"],
+          "releaseDate": "2021-04-13",
+          "content": {
+              "dateAdded": "2021-04-13T14:14:54.431Z",
+              "captions": [],
+              "duration": 37,
+              "videos": [{
+                  "url": "https://app.viloud.tv/hls/channel/c6a146f3bdb2f73571f61891e214e731.m3u8",
+                  "quality": "HD",
+                  "videoType": "MP4",
+                  "bitrate": 1000
+              }]
+           }
+       }]
+    }
