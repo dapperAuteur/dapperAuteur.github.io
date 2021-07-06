@@ -25,15 +25,19 @@
        }],
       "categories": [{
             "name": "Most Popular",
-            "playlistName": "misc"
+            "playlistName": "misc",
+            "order": "manual"
       },{
            "name": "Recentely Added",
-            "playlistName": "misc"
+            "playlistName": "misc",
+            "order": "manual"
       },{
            "name": "Blue Zone",
-            "playlistName": "misc"
+            "playlistName": "misc",
+            "order": "manual"
       },{
            "name": "Centenarian Fun",
-            "playlistName": "misc"
+            "playlistName": "misc",
+            "order": "manual"
       }]            
     }
