@@ -22,5 +22,10 @@
                   "bitrate": 1000
               }]
            }
-       }]
+       }],
+      "categories": [{
+            "name": "Most Popular"
+      },{
+           "name": "Recentely Added"
+      }]            
     }
