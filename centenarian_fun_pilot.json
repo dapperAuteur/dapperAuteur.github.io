@@ -1,30 +1,64 @@
 {
-      "providerName": "Centenarian.Fun",
-      "language": "en-us",
-      "lastUpdated": "2021-04-13T18:12:32.125Z",
-      "liveFeeds": [
-          {
-           "id":"1509428502953", 
-            "title":"Centenarian.Fun Linear", 
-            "content": {
-              "dateAdded": "2021-07-14T20:00:00+00:00",
-              "videos": [ 
-                {
-                  "url": "https://app.viloud.tv/hls/channel/c6a146f3bdb2f73571f61891e214e731.m3u8",
-                  "quality": "FHD",
-                  "videoType": "HLS"
-                }],
-               "duration": 2191,
-               "captions": [ ],
-               "adBreaks": [ ],
-               "language": "en"
-            },
-            "language": "en",
-            "thumbnail": "https://cdn.shopify.com/s/files/1/0540/4252/5874/articles/morning_show_convo_wit_fred_cover_905x.png?v=1619644996",
-            "brandedThumbnail": "https://picsum.photos/800/450",
-            "shortDescription": "aweful Conversations, a regular part of the Centenarian Fun morning show. I hope you enjoy this conversation with Fred Harper, a Developer Evangelist with over 20 years experience in the tech.", 
-            "longDescription":"aweful Conversations will become a regular part of the Centenarian Fun morning show. I hope you enjoy this conversation with Fred Harper. Fred's a Developer Evangelist with over 20 years experience in the tech industry. We talk about: cats, his is name Java, creating the world you want to exist, succession planning so that you may enjoy the world you create, MIAMI = Money Is Always A Major Issue (Pitbull gave us this Hip-Hop Axiom), 2 Bags, 3 Words for 2021", 
-            "tags":[ "linear", "news" ] 
-          }
-      ]
-    }
+  "providerName": "Centenarian.Fun",
+  "language": "en-us",
+  "lastUpdated": "2021-04-13T18:12:32.125Z",
+  "liveFeeds": [
+      {
+       "id":"1509428502953", 
+        "title":"Centenarian.Fun Linear", 
+        "content": {
+          "dateAdded": "2021-07-14T20:00:00+00:00",
+          "videos": [ 
+            {
+              "url": "https://app.viloud.tv/hls/channel/c6a146f3bdb2f73571f61891e214e731.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }],
+           "duration": 2191,
+           "captions": [ ],
+           "adBreaks": [ ],
+           "language": "en"
+        },
+        "language": "en",
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0540/4252/5874/articles/morning_show_convo_wit_fred_cover_905x.png?v=1619644996",
+        "brandedThumbnail": "https://picsum.photos/800/450",
+        "shortDescription": "aweful Conversations, a regular part of the Centenarian Fun morning show. I hope you enjoy this conversation with Fred Harper, a Developer Evangelist with over 20 years experience in the tech.", 
+        "longDescription":"aweful Conversations will become a regular part of the Centenarian Fun morning show. I hope you enjoy this conversation with Fred Harper. Fred's a Developer Evangelist with over 20 years experience in the tech industry. We talk about: cats, his is name Java, creating the world you want to exist, succession planning so that you may enjoy the world you create, MIAMI = Money Is Always A Major Issue (Pitbull gave us this Hip-Hop Axiom), 2 Bags, 3 Words for 2021", 
+        "tags":[ "linear", "news" ] 
+      }
+  ],
+  "series": [{
+    "id": "1509428502952",
+    "title": "aweful Morning Show",
+    "seasons": [{
+      "seasonNumber": "1",
+      "episodes": [{
+        "id": "1509428502952",
+        "title": "Convo wit Fred Harper",
+        "content": {
+          "dateAdded": "2021-07-14T20:00:00+00:00",
+          "videos": [ 
+            {
+              "url": "https://app.viloud.tv/hls/channel/c6a146f3bdb2f73571f61891e214e731.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }],
+           "duration": 2191,
+           "captions": [ ],
+           "adBreaks": [ ],
+           "language": "en"
+        },
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0540/4252/5874/articles/morning_show_convo_wit_fred_cover_905x.png?v=1619644996",
+        "episodeNumber": 1,
+        "shortDescription": "Marvelous episode description"
+      }]
+    }],
+    "genres": [
+      "educational",
+      "science fiction",
+      "thriller"
+    ],
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0540/4252/5874/articles/morning_show_convo_wit_fred_cover_905x.png?v=1619644996",
+    "shortDescription": "Wondrous series seasons."
+  }]
+}
