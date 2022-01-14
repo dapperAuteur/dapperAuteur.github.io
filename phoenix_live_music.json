@@ -1,0 +1,26 @@
+{
+  "providerName": "AwesomeWebStore.com",
+  "language": "en-us",
+  "lastUpdated": "2022-01-13T18:12:32.125Z",
+  "shortFormVideos": [{
+      "id": "202112_awesomewebstore_phoenix_az_live_music",
+      "title": "Wednesday Wednesday at Crescent Bar Ballroom AweWS.com",
+      "shortDescription": "Wednesday Wednesday at Crescent Bar Ballroom is a song writers showcase. All performances were documented by Brand Anthony McDonald for AwesomeWebStore.com",
+      "longDescription": "Wednesday Wednesday at Crescent Bar Ballroom is a song writers showcase. Artists come to perform new songs and new renditions of old songs. All performances were documented by Brand Anthony McDonald for AwesomeWebStore.com",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0540/4252/5874/products/ca_flying_ver0000_a8194332-5af6-4380-8472-76e0d658dc31_110x110@2x.png?v=1614452313",
+      "genres": ["music"],
+      "tags": ["live music", "Phoenix", "Arizona","accoustic", "music"],
+      "releaseDate": "2022-01-13",
+      "content": {
+          "dateAdded": "2022-01-13T14:14:54.431Z",
+          "captions": [],
+          "duration": 37,
+          "videos": [{
+              "url": "https://app.viloud.tv/hls/channel/4effbd911c086f3d8152ea117edc3bc3.m3u8",
+              "quality": "HD",
+              "videoType": "MP4",
+              "bitrate": 1000
+          }]
+       }
+   }]
+}
