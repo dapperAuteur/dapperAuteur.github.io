@@ -30,11 +30,13 @@
   "series": [{
     "id": "1509428502952",
     "title": "aweful Morning Show",
+    "releaseDate": "2021-07-14",
     "seasons": [{
       "seasonNumber": "1",
       "episodes": [{
-        "id": "1509428502952",
+        "id": "1509428502958",
         "title": "Convo wit Fred Harper",
+        "releaseDate": "2021-07-14",
         "content": {
           "dateAdded": "2021-07-14T20:00:00+00:00",
           "videos": [ 
