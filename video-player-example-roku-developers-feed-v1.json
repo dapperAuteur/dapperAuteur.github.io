@@ -38,13 +38,13 @@
 				"getting-started"
 			],
 			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-			"title": "MINE Roku Development Overview",
+			"shortDescription": "Does Adilo m3u8 work",
+			"title": "Adilo",
 			"content": {
-				"duration": 248,
+				"duration": 1003,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://res.cloudinary.com/devdash54321/video/upload/v1642999216/videos/Honda_Civic_by_SURESON_Wednesday_Wednesday_Crescent_20211201_shrink.mov",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/r7vxtDBX/aes/hls/master.m3u8",
 					"quality": "HD"
 				}],
 				"language": "en-us",
