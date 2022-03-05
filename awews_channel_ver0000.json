@@ -4,7 +4,7 @@
 	"lastUpdated": "2022-03-04T12:00:00.125Z",
 	"12-1 @Wednesday_Wednesday_Crescent Ballroom Phx": [
 		{
-			"longDescription": "T R U V O N N E performing three songs: 'Alright', 'Broken House', 'Coffee and Cigarettes'. Get more www.truvonne.com. A BAM Favorite Wednesday Wednesday performance.",
+			"longDescription": "T R U V O N N E performing three songs: 'Alright', 'Broken House', 'Coffee and Cigarettes'. /n Get more www.truvonne.com. A BAM Favorite Wednesday Wednesday performance.",
 			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479154/wednesday%20wednesday/12-01/truvonne_00_thumbnail.png",
 			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
@@ -38,7 +38,7 @@
 			}
 		},
 		{
-			"longDescription": "SURESON performing three songs: HNDA CVC, Love Perpetual, and See You Later Alli. Visit sureson.net for more SURESON. making music & playing love",
+			"longDescription": "SURESON performing three songs: HNDA CVC, Love Perpetual, and See You Later Alli. /n Visit sureson.net for more SURESON. making music & playing love",
 			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479158/wednesday%20wednesday/12-01/tyler_matock_01_thumbnail.png",
 			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
@@ -72,7 +72,7 @@
 			}
 		},
 		{
-			"longDescription": "Camille Sledge performs with Mitch Freedom & Steve Cohen of Rehab for Robots: 'Champion', 'La Love', and 'Royalty' from the Street Lights & Lullabies album. Find more Camille at www.camillesledge.com.",
+			"longDescription": "Camille Sledge performs with Mitch Freedom & Steve Cohen of Rehab for Robots: 'Champion', 'La Love', and 'Royalty' from the Street Lights & Lullabies album. /n Find more Camille at www.camillesledge.com.",
 			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479158/wednesday%20wednesday/12-01/camille_sledge_01_thumbnail.png",
 			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
@@ -139,7 +139,7 @@
 		}
 	},
 	{
-			"longDescription": "Danielle Durack performing live at @Wednesday_Wednesday_Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'. Get more Danielle Durack at www.danielledurack.com.",
+			"longDescription": "Danielle Durack performing live at @Wednesday_Wednesday_Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'./n Get more Danielle Durack at www.danielledurack.com.",
 			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479161/wednesday%20wednesday/12-01/danielle_durack_01_thumbnail.png",
 			"releaseDate": "2022-03-04",
 			"genres": [
@@ -205,76 +205,95 @@
 		}
 	}
 	],
-	"movies": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
-			"releaseDate": "2020-01-20",
+	"Alonzo 'AJ' Jones & J4 Conversations: 2 Fathers 2 Sons": [
+		{
+			"longDescription": "Alonzo 'AJ' Jones talks about the need for men to have friendship, inter-generational father sharing, and deeper level conversations to help them thrive. You are more than your man cave and dad chair.",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1646460559/alonzo_jones/aj_men_need_friends_communities.png",
+			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
-				"educational"
+				"educational",
+				"faith",
+				"health",
+				"reality",
+				"special"
 			],
 			"tags": [
-				"demo"
+				"Alonzo 'AJ' Jones",
+				"African-American",
+				"culture"
 			],
-			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"id": "alonzo-aj-jones-5e61f4fb-17d9-4d23-adb0-9b145bd67ff6",
+			"shortDescription": "Alonzo 'AJ' Jones creates a space for men to discuss and build with each other.",
+			"title": "Fathers Need Communities & Confidants #Fatherhood",
 			"content": {
-				"duration": 713,
+				"duration": 1357,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/uccoJXsA/720p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"dateAdded": "2022-03-04T12:00:00.125Z"
 			}
 		},
 		{
-			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
-			"releaseDate": "2020-01-20",
+			"longDescription": "Alonzo 'AJ' Jones & Austin Moss II talks being intentional. A future fathers conversation and life as Director of Player Engagement for an NFL Franchise. Young Men Control Your Reproduction!",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1646460559/alonzo_jones/aj_men_need_friends_communities.png",
+			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
-				"educational"
+				"educational",
+				"faith",
+				"health",
+				"reality",
+				"special"
 			],
 			"tags": [
-				"demo"
+				"Alonzo 'AJ' Jones",
+				"African-American",
+				"culture"
 			],
-			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-			"shortDescription": "Demonstrates the Roku automated channel testing software.",
-			"title": "Automated channel testing",
+			"id": "alonzo-aj-jones-c0768216-ea94-4b84-a343-08517e0f6f01",
+			"shortDescription": "Alonzo 'AJ' Jones & Austin Moss II talks being intentional with reproduction.",
+			"title": "Future Fathers Convo w/ San Francisco 49ers, Director of Player Engagement, Austin Moss II",
 			"content": {
-				"duration": 713,
+				"duration": 2562,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://d1n7kckvd41xqg.cloudfront.net/5b4e5754cc0b44bfaef78e14fcbdaebc/30e282cf1e4a4b08a4d893277ac8f592/807911f5ee304839b53cb56d5f30f9a9/index.mpd",
+					"videoType": "MP4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/PigShxiA/720p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:10Z"
+				"dateAdded": "2022-03-04T12:00:00.125Z"
 			}
 		},
 		{
-			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
-			"releaseDate": "2020-01-20",
+			"longDescription": "Alonzo 'AJ' Jones talks to father of 3 & former NFL Athlete Jonathan Ore about parenting strategies, parental influences, rites of passages & more!",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1646462507/alonzo_jones/Conversation_with_father_of_3_and_NFL_Alum_Jonathan_Ore_Fatherhood_Parenting.png",
+			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
-				"educational"
+				"educational",
+				"faith",
+				"health",
+				"reality",
+				"special"
 			],
 			"tags": [
-				"demo"
+				"Alonzo 'AJ' Jones",
+				"African-American",
+				"culture"
 			],
-			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
-			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
-			"title": "Managing user access",
+			"id": "alonzo-aj-jones-d5799009-e990-4a29-a007-330d7835acd9",
+			"shortDescription": "Alonzo 'AJ' Jones talks to father of 3 & former NFL Athlete Jonathan Ore.",
+			"title": "Conversation with father of 3 and NFL Alum, Jonathan Ore. #Fatherhood #Parenting",
 			"content": {
-				"duration": 576,
+				"duration": 3020,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://d1n7kckvd41xqg.cloudfront.net/165bffb0ffed48f0b33f3af595ccd5dc/30e282cf1e4a4b08a4d893277ac8f592/807911f5ee304839b53cb56d5f30f9a9/index.mpd",
+					"videoType": "MP4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/beS_2FWG/720p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"dateAdded": "2022-03-04T12:00:00.125Z"
 			}
 		}
 	]
