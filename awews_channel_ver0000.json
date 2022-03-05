@@ -3,42 +3,9 @@
 	"language": "en-US",
 	"lastUpdated": "2022-03-04T12:00:00.125Z",
 	"12-1 @Wednesday_Wednesday_Crescent Ballroom Phx": [
-	{
-			"longDescription": "Danielle Durack performing live at @Wednesday_Wednesday_Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'. Get more Danielle Durack at www.danielledurack.com.",
-			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479161/wednesday%20wednesday/12-01/danielle_durack_01_thumbnail.png",
-			"releaseDate": "2022-03-04",
-			"genres": [
-				"educational",
-				"documentary",
-				"miniseries",
-				"reality",
-				"special"
-			],
-			"tags": [
-				"music",
-				"accoustic",
-				"live",
-				"Phoenix",
-				"Arizona",
-				"Crescent Ballroom"
-			],
-			"id": "6be70f9a-9b52-4860-bb48-50df33fb744b",
-			"shortDescription": "Danielle Durack performing live at Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'.",
-			"title": "Danielle Durack",
-			"content": {
-				"duration": 839,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/ehDCsFOY/1080p.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2022-03-04T12:00:00.125Z"
-			}
-		},
 		{
-			"longDescription": "Anamieke sings 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx. vinyl/garden/culinary enthusiast Find more on her IG @anamieke.",
-			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479155/wednesday%20wednesday/12-01/anameike_quinn_01_thumbnail.png",
+			"longDescription": "T R U V O N N E performing three songs: 'Alright', 'Broken House', 'Coffee and Cigarettes'. Get more www.truvonne.com. A BAM Favorite Wednesday Wednesday performance.",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479154/wednesday%20wednesday/12-01/truvonne_00_thumbnail.png",
 			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
 				"educational",
@@ -53,16 +20,17 @@
 				"live",
 				"Phoenix",
 				"Arizona",
-				"Crescent Ballroom"
+				"Crescent Ballroom",
+				"BAM Favorite"
 			],
-			"id": "1456ff26-a8e5-4584-abda-10c83b1a685d",
-			"shortDescription": "Anamieke Quinn performing 3 songs: 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx.",
-			"title": "Anamieke Quinn",
+			"id": "truvonne-fb497a28-9bc9-4d7b-b20c-55033de9541c",
+			"shortDescription": "T R U V O N N E performing three songs: 'Alright', 'Broken House', 'Coffee and Cigarettes'.",
+			"title": "T R U V O N N E",
 			"content": {
-				"duration": 810,
+				"duration": 843,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/cQzDpvmd/1080p.mp4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/Fu0cMswH/1080p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -86,9 +54,10 @@
 				"live",
 				"Phoenix",
 				"Arizona",
-				"Crescent Ballroom"
+				"Crescent Ballroom",
+				"BAM Favorite"
 			],
-			"id": "5ccd4af3-0a15-4d9f-bf49-178ee674f93f",
+			"id": "sureson-5ccd4af3-0a15-4d9f-bf49-178ee674f93f",
 			"shortDescription": "SURESON performing three songs: HNDA CVC, Love Perpetual, and See You Later Alli.",
 			"title": "SURESON",
 			"content": {
@@ -102,41 +71,139 @@
 				"dateAdded": "2022-03-04T12:00:00.125Z"
 			}
 		},
-			{
-			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
-			"releaseDate": "2020-01-17",
+		{
+			"longDescription": "Camille Sledge performs with Mitch Freedom & Steve Cohen of Rehab for Robots: 'Champion', 'La Love', and 'Royalty' from the Street Lights & Lullabies album. Find more Camille at www.camillesledge.com.",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479158/wednesday%20wednesday/12-01/camille_sledge_01_thumbnail.png",
+			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
-				"educational"
+				"educational",
+				"documentary",
+				"miniseries",
+				"reality",
+				"special"
 			],
 			"tags": [
-				"feature"
+				"music",
+				"accoustic",
+				"live",
+				"Phoenix",
+				"Arizona",
+				"Crescent Ballroom"
 			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"title": "Voice Features",
+			"id": "camille-sledge-57219bd6-8672-489e-89a8-23cfccfc7bb8",
+			"shortDescription": "Camille Sledge performs with Mitch Freedom & Steve Cohen of Rehab for Robots: 'Champion', 'La Love', and 'Royalty' from the Street Lights & Lullabies album.",
+			"title": "Camille Sledge",
 			"content": {
-				"duration": 98,
+				"duration": 1120,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/6aVcTJgr/1080p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:12Z",
-				"captions": [{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
-					},
-					{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
-					}
-				]
+				"dateAdded": "2022-03-04T12:00:00.125Z"
 			}
+		},
+		{
+		"longDescription": "Mark Zubia performs Wild Love Coast, I'm Concerned, Who Am I? on opening night of Wednesday Wednesday. Learn more about the Arizona Music & Entertainment Hall of Famer on markzubia.com.",
+		"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479155/wednesday%20wednesday/12-01/mark_zubia_01_thumbnail.png",
+		"releaseDate": "2022-03-04T12:00:00.125Z",
+		"genres": [
+			"educational",
+			"documentary",
+			"miniseries",
+			"reality",
+			"special"
+		],
+		"tags": [
+			"music",
+			"accoustic",
+			"live",
+			"Phoenix",
+			"Arizona",
+			"Crescent Ballroom",
+			"BAM Favorite"
+		],
+		"id": "mark-zubia-a93e1d4e-1aae-4d70-8da0-74d199ebe094",
+		"shortDescription": "Mark Zubia performs Wild Love Coast, I'm Concerned, Who Am I? on opening night of Wednesday Wednesday. Learn more about the Arizona Music & Entertainment Hall of Famer on markzubia.com.",
+		"title": "Mark Zubia",
+		"content": {
+			"duration": 952,
+			"videos": [{
+				"videoType": "MP4",
+				"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/Fu0cMswH/1080p.mp4",
+				"quality": "HD"
+			}],
+			"language": "en-us",
+			"dateAdded": "2022-03-04T12:00:00.125Z"
 		}
+	},
+	{
+			"longDescription": "Danielle Durack performing live at @Wednesday_Wednesday_Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'. Get more Danielle Durack at www.danielledurack.com.",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479161/wednesday%20wednesday/12-01/danielle_durack_01_thumbnail.png",
+			"releaseDate": "2022-03-04",
+			"genres": [
+				"educational",
+				"documentary",
+				"miniseries",
+				"reality",
+				"special"
+			],
+			"tags": [
+				"music",
+				"accoustic",
+				"live",
+				"Phoenix",
+				"Arizona",
+				"Crescent Ballroom"
+			],
+			"id": "danielledurack-6be70f9a-9b52-4860-bb48-50df33fb744b",
+			"shortDescription": "Danielle Durack performing live at Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'.",
+			"title": "Danielle Durack",
+			"content": {
+				"duration": 839,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/ehDCsFOY/1080p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2022-03-04T12:00:00.125Z"
+			}
+	},
+	{
+		"longDescription": "Anamieke sings 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx. vinyl/garden/culinary enthusiast Find more on her IG @anamieke.",
+		"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479155/wednesday%20wednesday/12-01/anameike_quinn_01_thumbnail.png",
+		"releaseDate": "2022-03-04T12:00:00.125Z",
+		"genres": [
+			"educational",
+			"documentary",
+			"miniseries",
+			"reality",
+			"special"
+		],
+		"tags": [
+			"music",
+			"accoustic",
+			"live",
+			"Phoenix",
+			"Arizona",
+			"Crescent Ballroom"
+		],
+		"id": "anamieke-1456ff26-a8e5-4584-abda-10c83b1a685d",
+		"shortDescription": "Anamieke Quinn performing 3 songs: 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx.",
+		"title": "Anamieke Quinn",
+		"content": {
+			"duration": 810,
+			"videos": [{
+				"videoType": "MP4",
+				"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/cQzDpvmd/1080p.mp4",
+				"quality": "HD"
+			}],
+			"language": "en-us",
+			"dateAdded": "2022-03-04T12:00:00.125Z"
+		}
+	}
 	],
 	"movies": [{
 			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
