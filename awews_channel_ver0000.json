@@ -5,7 +5,7 @@
 	"shortFormVideos": [
 	{
 			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479161/wednesday%20wednesday/12-01/danielle_durack_01_thumbnail.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -14,7 +14,7 @@
 				"getting-started"
 			],
 			"id": "6be70f9a-9b52-4860-bb48-50df33fb744b",
-			"shortDescription": "Danielle Durack playing the hits",
+			"shortDescription": "Danielle Durack performing live at Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'.",
 			"title": "Danielle Durack Wednesday Wednesday Crescent Ballroom 12-01-2021",
 			"content": {
 				"duration": 839,
