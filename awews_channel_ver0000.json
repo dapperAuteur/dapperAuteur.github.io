@@ -295,39 +295,6 @@
 				"language": "en-us",
 				"dateAdded": "2022-03-04T12:00:00.125Z"
 			}
-		},
-		{
-			"longDescription": "Wednesday Wednesday is a Live music singer/song-writer showcase at Crescent Ballroom. This Wednesday Wednesday (@wednesday_wednesday_crescent) features the best in Phoenix, Arizona singer/songwriters. This week's line-up: Chuck Linton, Gigi Decore, Priscilla Flores, Aaron Todd, and The Deadbeat Cousins. Follow Jesse Teer (@senators.music) of The Senators for more info on Wednesday Wednesday. Let me know if you'd like to have your event streamed live from your website or 6in602.com. #ShopWitUS at AwesomeWebStore.com",
-			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1690673569/wednesday%20wednesday/07-12/2023_07_12-lineup.png",
-			"releaseDate": "2023-07-12T12:00:00.125Z",
-			"genres": [
-				"educational",
-				"documentary",
-				"miniseries",
-				"reality",
-				"special"
-			],
-			"tags": [
-				"music",
-				"accoustic",
-				"live",
-				"Phoenix",
-				"Arizona",
-				"Crescent Ballroom"
-			],
-			"id": "wed-wed-20230712-1456ff26-a8e5-4584-abda-10c83b1a685d",
-			"shortDescription": "Wednesday Wednesday is a Live music singer/song-writer showcase at Crescent Ballroom in Phoenix, Arizona.",
-			"title": "#WW 7-12 Show",
-			"content": {
-				"duration": 7200,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/M2AnvsZ8/1080p.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2023-07-12T12:00:00.125Z"
-			}
 		}
 	]
 }
