@@ -229,11 +229,44 @@
 			"language": "en-us",
 			"dateAdded": "2022-03-04T12:00:00.125Z"
 		}
-	},
-	{
-			"longDescription": "Danielle Durack performing live at @Wednesday_Wednesday_Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'.\n Get more Danielle Durack at www.danielledurack.com.",
-			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479161/wednesday%20wednesday/12-01/danielle_durack_01_thumbnail.png",
-			"releaseDate": "2022-03-04",
+		},
+		{
+				"longDescription": "Danielle Durack performing live at @Wednesday_Wednesday_Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'.\n Get more Danielle Durack at www.danielledurack.com.",
+				"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479161/wednesday%20wednesday/12-01/danielle_durack_01_thumbnail.png",
+				"releaseDate": "2022-03-04",
+				"genres": [
+					"educational",
+					"documentary",
+					"miniseries",
+					"reality",
+					"special"
+				],
+				"tags": [
+					"music",
+					"accoustic",
+					"live",
+					"Phoenix",
+					"Arizona",
+					"Crescent Ballroom"
+				],
+				"id": "danielledurack-6be70f9a-9b52-4860-bb48-50df33fb744b",
+				"shortDescription": "Danielle Durack performing live at Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'.",
+				"title": "Danielle Durack",
+				"content": {
+					"duration": 839,
+					"videos": [{
+						"videoType": "MP4",
+						"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/ehDCsFOY/1080p.mp4",
+						"quality": "HD"
+					}],
+					"language": "en-us",
+					"dateAdded": "2022-03-04T12:00:00.125Z"
+				}
+		},
+		{
+			"longDescription": "Anamieke sings 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx. vinyl/garden/culinary enthusiast Find more on her IG @anamieke.",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479155/wednesday%20wednesday/12-01/anameike_quinn_01_thumbnail.png",
+			"releaseDate": "2022-03-04T12:00:00.125Z",
 			"genres": [
 				"educational",
 				"documentary",
@@ -249,52 +282,52 @@
 				"Arizona",
 				"Crescent Ballroom"
 			],
-			"id": "danielledurack-6be70f9a-9b52-4860-bb48-50df33fb744b",
-			"shortDescription": "Danielle Durack performing live at Crescent Ballroom Phx. She performs 'Shirt Song', 'Something Good', and 'Broken Wings'.",
-			"title": "Danielle Durack",
+			"id": "anamieke-1456ff26-a8e5-4584-abda-10c83b1a685d",
+			"shortDescription": "Anamieke Quinn performing 3 songs: 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx.",
+			"title": "Anamieke Quinn",
 			"content": {
-				"duration": 839,
+				"duration": 810,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/ehDCsFOY/1080p.mp4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/cQzDpvmd/1080p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
 				"dateAdded": "2022-03-04T12:00:00.125Z"
 			}
-	},
-	{
-		"longDescription": "Anamieke sings 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx. vinyl/garden/culinary enthusiast Find more on her IG @anamieke.",
-		"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1645479155/wednesday%20wednesday/12-01/anameike_quinn_01_thumbnail.png",
-		"releaseDate": "2022-03-04T12:00:00.125Z",
-		"genres": [
-			"educational",
-			"documentary",
-			"miniseries",
-			"reality",
-			"special"
-		],
-		"tags": [
-			"music",
-			"accoustic",
-			"live",
-			"Phoenix",
-			"Arizona",
-			"Crescent Ballroom"
-		],
-		"id": "anamieke-1456ff26-a8e5-4584-abda-10c83b1a685d",
-		"shortDescription": "Anamieke Quinn performing 3 songs: 'Time Is On Our Side', 'Come Little Cattle', & 'Underneath Everything' live @Wednesday_Wednesday_Crescent Ballroom Phx.",
-		"title": "Anamieke Quinn",
-		"content": {
-			"duration": 810,
-			"videos": [{
-				"videoType": "MP4",
-				"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/cQzDpvmd/1080p.mp4",
-				"quality": "HD"
-			}],
-			"language": "en-us",
-			"dateAdded": "2022-03-04T12:00:00.125Z"
+		},
+		{
+			"longDescription": "Wednesday Wednesday is a Live music singer/song-writer showcase at Crescent Ballroom. This Wednesday Wednesday (@wednesday_wednesday_crescent) features the best in Phoenix, Arizona singer/songwriters. This week's line-up: Chuck Linton, Gigi Decore, Priscilla Flores, Aaron Todd, and The Deadbeat Cousins. Follow Jesse Teer (@senators.music) of The Senators for more info on Wednesday Wednesday. Let me know if you'd like to have your event streamed live from your website or 6in602.com. #ShopWitUS at AwesomeWebStore.com",
+			"thumbnail": "https://res.cloudinary.com/devdash54321/image/upload/v1690673569/wednesday%20wednesday/07-12/2023_07_12-lineup.png",
+			"releaseDate": "2023-07-12T12:00:00.125Z",
+			"genres": [
+				"educational",
+				"documentary",
+				"miniseries",
+				"reality",
+				"special"
+			],
+			"tags": [
+				"music",
+				"accoustic",
+				"live",
+				"Phoenix",
+				"Arizona",
+				"Crescent Ballroom"
+			],
+			"id": "anamieke-1456ff26-a8e5-4584-abda-10c83b1a685d",
+			"shortDescription": "Wednesday Wednesday is a Live music singer/song-writer showcase at Crescent Ballroom in Phoenix, Arizona.",
+			"title": "#WW 7-12 Show",
+			"content": {
+				"duration": 7200,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://stream.adilo.com/adilo-encoding/VIvIbQ7dY3EDmcjK/M2AnvsZ8/1080p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2023-07-12T12:00:00.125Z"
+			}
 		}
-	}
 	]
 }
